@@ -2,7 +2,7 @@
 Overview
 The Legal Document Summary Generator is a web application designed to help users analyze legal documents by extracting key information, generating summaries, identifying clauses and obligations, assessing risks, and providing regulatory updates. The app leverages various libraries and APIs to offer a comprehensive analysis of uploaded PDF documents.
 
-Features
+# Features
 PDF Upload: Users can upload legal documents in PDF format.
 Text Extraction: Extracts text from the uploaded PDF for analysis.
 Summary Generation: Generates a concise summary of the document.
@@ -13,7 +13,7 @@ Regulatory Updates: Fetches and displays the latest updates related to GDPR.
 Email Reports: Allows users to send generated reports via email.
 Interactive Chatbot: Users can ask questions about the document, and the chatbot provides answers based on the content.
 
-Technologies Used
+# Technologies Used
 Python: The main programming language used for backend logic.
 Streamlit: A framework for building web applications in Python.
 Langchain Groq: For generating summaries and answering questions.
