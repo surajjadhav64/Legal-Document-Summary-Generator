@@ -12,6 +12,7 @@ Risk Analysis: Assesses risks associated with the document and provides an overa
 Regulatory Updates: Fetches and displays the latest updates related to GDPR.
 Email Reports: Allows users to send generated reports via email.
 Interactive Chatbot: Users can ask questions about the document, and the chatbot provides answers based on the content.
+
 Technologies Used
 Python: The main programming language used for backend logic.
 Streamlit: A framework for building web applications in Python.
